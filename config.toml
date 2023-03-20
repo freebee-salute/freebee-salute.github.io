@@ -1,4 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'de-de'
-title = 'TestSite'
-theme = 'hugo-fresh'
